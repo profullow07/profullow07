@@ -10,7 +10,7 @@ Hi! My name is Profullow. I have 1+ years of experience in Mobile Application De
 ✅ Bootstrap
 ✅ Photoshop / Illustrator
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=profullow07&show_icons=true)  
+
 
 - 🌱 I’m currently learning Flutter Advanced 
 - 👯 I’m looking to collaborate on GitHub 
