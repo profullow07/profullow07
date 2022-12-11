@@ -1,7 +1,7 @@
 # Hi' I'm Profullow
 ![Profile views](https://gpvc.arturio.dev/profullow07)  
-## I am Flutter Android/iOS Developer 
-Hi! My name is Profullow. I have 1+ years of experience in Mobile Application Development and 1+ years in the awesome flutter framework. I'm Love to learn new skills. Now learning JavaScript. Full and fresh hand code is my power. Client satisfaction is my first priority.
+## I am Mid Level Flutter App Devloper! 
+Hi! I have 1+ years of experience in Flutter Mobile Application Development. I Love to learn new skills and  Now i'm learning Api/Rest Api/Provider. Full and fresh hand code is my power. Client satisfaction is my first priority.
 
 ### Skills: Flutter / Dart / Firebase /Api
 
@@ -18,12 +18,14 @@ Hi! My name is Profullow. I have 1+ years of experience in Mobile Application De
 ✅ App Published Play Console
 ✅ App Updating
 ✅ Problem Solving
+✅ Shared Preferance
 ✅ Team Work
 ✅ Photoshop 
 
 
 
 - 🌱 I’m currently learning Flutter Advanced 
+- 🌱 I’m currently learning Provider Advanced 
 - 👯 I’m looking to collaborate on GitHub 
 - 👯 I’m looking to Flutter internship 
 - 💬 Ask me about Flutter /Dart/Firebase
@@ -40,7 +42,8 @@ Hi! My name is Profullow. I have 1+ years of experience in Mobile Application De
 
 
 
-📧 For Business Inquiries
+📧 For Contact Details..
 ✅ ► profullowonline121@gmail.com
+✅ ► Facebook : https://fb.com/profullow.kumar
 
 
