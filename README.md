@@ -17,13 +17,16 @@ Hi! My name is Profullow. I have 1+ years of experience in Mobile Application De
 ✅ Rest Api Calling
 ✅ App Published Play Console
 ✅ App Updating
+✅ Problem Solving
+✅ Team Work
 ✅ Photoshop 
 
 
 
 - 🌱 I’m currently learning Flutter Advanced 
 - 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Flutter /
+- 👯 I’m looking to Flutter internship 
+- 💬 Ask me about Flutter /Dart/Firebase
 
 
 <h3 align="left">Connect with me:</h3>
