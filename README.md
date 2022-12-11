@@ -6,16 +6,24 @@ Hi! My name is Profullow. I have 1+ years of experience in Mobile Application De
 ### Skills: Flutter / Dart / Json /
 
 ✅ Flutter
-✅ Android Studio
-✅ Bootstrap
-✅ Photoshop / Illustrator
+✅ Dart
+✅ Firebase Auth
+✅ Firebase CRUD
+✅ Firestore Database
+✅ Realtime Database
+✅ Api intergation
+✅ Api Post
+✅ Api Delete
+✅ Rest Api Calling
+✅ App Published Play Console
+✅ App Updating
+✅ Photoshop 
 
 
 
 - 🌱 I’m currently learning Flutter Advanced 
 - 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Flutter / Android Studio 
-
+- 💬 Ask me about Flutter /
 
 
 <h3 align="left">Connect with me:</h3>
