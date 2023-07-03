@@ -33,7 +33,7 @@ I have 1+ years of experience in Flutter Mobile Application Development. I Love 
 
 
 📧 For Contact Details..
-✅ ► profullowonline121@gmail.com
+✅ ► contact.profullow@gmail.com
 ✅ ► Facebook : https://fb.com/profullow.kumar
 
 <h3 align="left">Connect with me:</h3>
